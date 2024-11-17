@@ -29,8 +29,7 @@
 
 ![image](https://github.com/user-attachments/assets/b0d964b4-18f5-4cd1-a709-d136d08becc7)
 
-
-### Gráficos da regressão linear
+#### Gráficos 
 
 
 ![Captura de tela 2024-11-17 034626](https://github.com/user-attachments/assets/bcf5022c-f4c5-47c8-8b6f-5385a4edc45b)
